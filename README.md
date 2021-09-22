@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cadehanrahan
 - 👀 I’m interested in sports analytics
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chanrahan@uiowa.edu
 
 <!---
